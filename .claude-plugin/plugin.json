@@ -1,0 +1,12 @@
+{
+  "name": "r2yone-skills",
+  "version": "1.0.0",
+  "description": "Skills personales de r2Yone para Claude Code",
+  "author": {
+    "name": "r2Yone",
+    "url": "https://github.com/r2Yone"
+  },
+  "repository": "https://github.com/r2Yone/claude-plugins",
+  "license": "MIT",
+  "keywords": ["code-review", "project-summary", "productivity"]
+}
